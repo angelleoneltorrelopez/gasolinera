@@ -26,7 +26,7 @@
 					</div>
 					<div class="col-sm-6">
 						<a href="#addProductModal" class="btn btn-success" data-toggle="modal"><i class="material-icons">add_circle</i> <span>Cargar</span></a>
-                        <a href="/gasolinera/index2.php" class="btn btn-success" data-toggle="modal"><i class="material-icons">remove_circle</i> <span>Descargas</span></a>
+            <a href="/gasolinera/index2.php" class="btn btn-success" data-toggle="modal"><i class="material-icons">remove_circle</i> <span>Descargas</span></a>
 					</div>
 
                 </div>
@@ -53,7 +53,7 @@
 
         </div><!-- fIN CARGAS -->
 
-        
+
     </div><!-- fIN CONTENEDOR -->
 	<!-- Add Modal HTML -->
 	<?php include("html/modal_add.php");?>
